@@ -1,5 +1,5 @@
 import React from 'react'
-import article from './article'
+import article from './Article'
 
 export default function ArticleList({ posts }) {
   return (
